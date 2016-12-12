@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":144,"tick":"+6","eventualBG":-15,"snoozeBG":279,"predBGs":{"IOB":[144,148,151,153,154,153,151,148,143,137,129,120,109,98,87,76,66,57,48,39]},"IOB":3.764,"reason":"COB: undefined, Dev: 44, BGI: -2.56, ISF: 3.0, Target: 5.3; Eventual BG -0.8 < 5.0, but Delta +6 > Exp. Delta 3.6, temp 0.9 ~ req 0.9U/hr"}
+{"reason":"BG data is too old (it's probably this), or clock set incorrectly.  The last BG data was read at Mon Dec 12 2016 20:41:46 GMT+0000 (UTC) but your system time currently is Mon Dec 12 2016 20:51:49 GMT+0000 (UTC)"}
