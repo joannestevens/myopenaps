@@ -2,6 +2,25 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-12-12T17:18:05 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-12-12T17:18:05", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "c512114c10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-12-12T17:18:05 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-12-12T17:18:05", 
+    "_body": "00", 
+    "_head": "3336", 
+    "rate": 1.35, 
+    "_date": "c512114c10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-12-12T16:37:31 head[2], body[0] op[0x16]", 
     "timestamp": "2016-12-12T16:37:31", 
     "_body": "", 
@@ -429,74 +448,5 @@
     "_head": "3324", 
     "rate": 0.9, 
     "_date": "f5240c4c10"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-12-12T12:17:59 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-12-12T12:17:59", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "fb110c4c10"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-12-12T12:17:59 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-12-12T12:17:59", 
-    "_body": "00", 
-    "_head": "3324", 
-    "rate": 0.9, 
-    "_date": "fb110c4c10"
-  }, 
-  {
-    "programmed": 1.5, 
-    "_type": "Bolus", 
-    "type": "normal", 
-    "_description": "Bolus 2016-12-12T12:16:21 head[4], body[0] op[0x01]", 
-    "duration": 0, 
-    "timestamp": "2016-12-12T12:16:21", 
-    "_body": "", 
-    "_head": "010f0f00", 
-    "amount": 1.5, 
-    "_date": "d5104c0c10"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-12-12T12:05:47 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-12-12T12:05:47", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "ef050c4c10"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-12-12T12:05:47 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-12-12T12:05:47", 
-    "_body": "00", 
-    "_head": "334a", 
-    "rate": 1.85, 
-    "_date": "ef050c4c10"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-12-12T11:39:49 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-12-12T11:39:49", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "f1270b4c10"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-12-12T11:39:49 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-12-12T11:39:49", 
-    "_body": "00", 
-    "_head": "335b", 
-    "rate": 2.275, 
-    "_date": "f1270b4c10"
   }
 ]
