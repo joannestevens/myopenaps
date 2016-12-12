@@ -1,5 +1,27 @@
 [
   {
+    "xDrip_filtered_calculated_value": 95.7379020677557, 
+    "direction": "FortyFiveDown", 
+    "noise": 1, 
+    "type": "sgv", 
+    "xDrip_calculated_value": 95.7379020677557, 
+    "filtered": 100560, 
+    "xDrip_raw": 100.56, 
+    "dateString": "2016-12-12T13:16:47.847000+00:00", 
+    "sgv": 96, 
+    "device": "xDrip-BluetoothWixel", 
+    "xDrip_filtered": 100.56, 
+    "_id": "584ea343fa4e5e9e85dd57f1", 
+    "unfiltered": 100560, 
+    "sysTime": "2016-12-12T13:16:47.847+0000", 
+    "date": 1481548607847, 
+    "rssi": 100, 
+    "xDrip_calculated_current_slope": -2.4174692342860694e-05, 
+    "xDrip_age_adjusted_raw_value": 100.56, 
+    "xDrip_hide_slope": false, 
+    "glucose": 96
+  }, 
+  {
     "xDrip_filtered_calculated_value": 102.98977792738236, 
     "direction": "FortyFiveDown", 
     "noise": 1, 
